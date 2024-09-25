@@ -1,0 +1,385 @@
+﻿:root {
+    --main-bg-color-light: #F3F3FD;
+    --main-bg-color-moon: #14162E;
+    --main-text-color-light: #000000;
+    --main-text-color-moon: #ffffff;
+    --font-family: Satoshi;
+    --bg-color-button: #4461F2;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--main-bg-color-light);
+    margin: 0;
+}
+
+.navbar {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+    .logo .lg img {
+        height: 45px;
+        width: 45px;
+    }
+
+    .logo img {
+        height: 36px;
+        width: 36px;
+    }
+
+    .logo h3 {
+        font-weight: 1000;
+        font-family: var(--font-family);
+        background: linear-gradient(to right, #3A8EF6, #6F3AFA);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-left: 20px;
+    }
+
+.menu {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+    .menu a {
+        text-align: center;
+        padding-right: 20px;
+        font-family: var(--font-family);
+        font-size: 18px;
+        cursor: pointer;
+        color: var(--main-text-color-light);
+        text-decoration: none;
+    }
+
+.conlai {
+    display: flex;
+    float: right;
+    align-items: center;
+}
+
+.ngonngu {
+    position: relative;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.btnna {
+    color: #000000;
+    cursor: pointer;
+    border: none;
+    background-color: var(--main-bg-color-light);
+    font-size: 14px;
+}
+
+.tt {
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+    .tt a {
+        background-color: #F3F3FD;
+        text-decoration: none;
+        display: block;
+        font-size: 14px;
+    }
+
+        .tt a:hover {
+            background-color: var(--main-bg-color-light);
+        }
+
+.dn button, .dk button {
+    cursor: pointer;
+    border: none;
+    background-color: var(--main-bg-color-light);
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+    .dn button a {
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .dk button a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+.dk button {
+    color: #ffffff;
+    padding: 14px;
+    border-radius: 15px;
+    background-color: var(--bg-color-button);
+}
+
+.main {
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    flex: 1;
+    box-sizing: border-box;
+}
+
+.phanchu {
+    padding-top: 80px;
+}
+
+    .phanchu h1 {
+        font-family: var(--font-family);
+        font-size: 55px;
+    }
+
+.chube h3 {
+    font-size: 23px;
+    font-family: var(--font-family);
+}
+
+    .chube h3 a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #4461F2;
+        font-size: 23px;
+    }
+
+.anh img {
+    height: 590px;
+    width: 530px;
+}
+
+.form {
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+    .form h2 {
+        font-size: 40px;
+    }
+
+.nhap {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+    .input-container input {
+        width: 355px;
+        padding: 15px;
+        font-size: 16px;
+        border-radius: 15px;
+        border: 1px solid #ccc;
+    }
+
+
+    .input-container button {
+        position: absolute;
+        right: 70px;
+        top: 50%;
+        transform: translateY(-50%);
+        border: none;
+        background: none;
+        cursor: pointer;
+        font-size: 18px;
+        color: #888;
+        outline: none;
+    }
+
+.recover {
+    h6
+
+{
+    padding-top: 0;
+    margin-top: 0;
+    text-align: end;
+    margin-right: 65px;
+    margin-bottom: 30px;
+    a
+
+{
+    cursor: pointer;
+    font-family: var(--font-family);
+    text-decoration: none;
+    color: #C7C7C7;
+    font-size: 13px;
+}
+
+}
+}
+
+.form .btsubmit {
+    cursor: pointer;
+    width: 385px;
+    height: 45px;
+    border: none;
+    border-radius: 15px;
+    background-color: var(--bg-color-button);
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.cacnut {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    border: none;
+    .gg
+
+{
+    button
+
+{
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: 45px;
+    background-color: #f0f1f0;
+}
+
+}
+
+.tao {
+    button
+
+{
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: 45px;
+    background-color: #ffffff;
+    margin-left: 45px;
+    box-shadow: #aeaeaec3 5px 5px 10px;
+}
+
+}
+
+.face {
+    button
+
+{
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: 45px;
+    background-color: #f0f1f0;
+    margin-left: 45px;
+}
+
+}
+}
+
+.moon {
+    button
+
+{
+    border: var(--main-bg-color-light);
+    border-bottom: #000000;
+    cursor: pointer;
+    float: right;
+    width: 100px;
+    font-size: 16px;
+    background-color: var(--main-bg-color-light);
+    color: #000000;
+}
+
+}
+
+body.dark-mode {
+    background-color: var(--main-bg-color-moon);
+    color: var(--main-text-color-moon);
+}
+
+    body.dark-mode .menu a,
+    body.dark-mode .btnna,
+    body.dark-mode .tt a {
+        color: var(--main-text-color-moon);
+    }
+
+    body.dark-mode .input-container input,
+    body.dark-mode .btnna,
+    body.dark-mode .bthienthi {
+        background-color: var(--main-bg-color-moon);
+        color: var(--main-text-color-moon);
+    }
+
+    body.dark-mode .dk button {
+        background-color: var(--main-bg-color-light);
+        a
+
+{
+    color: var(--main-text-color-light);
+}
+
+}
+
+body.dark-mode .dn button {
+    background-color: var(--main-bg-color-moon);
+    a
+
+{
+    color: var(--main-text-color-moon);
+}
+
+}
+
+body.dark-mode .moon button {
+    background-color: var(--main-bg-color-moon);
+    color: var(--main-bg-color-light)
+}
+
+@media (max-width: 1024px) {
+    .navbar {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .main {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+
+        .main .phanchu {
+            display: none;
+        }
+
+    .form {
+        padding: 0;
+        max-width: 100%;
+    }
+
+        .form .nhap .input-container {
+        }
+
+            .form .nhap .input-container button {
+                right: 20px;
+            }
+
+        .form .recover h6 {
+            margin-right: 10px;
+        }
+
+    .anh img {
+        display: none; /* Hide image for smaller screens */
+    }
+}

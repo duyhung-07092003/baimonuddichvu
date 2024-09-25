@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code2024\\ungdungvoinet\\bai1basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|d:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|solutionrelative:giaiphuongtrinh2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|d:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\controllers\\giaiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|solutionrelative:giaiphuongtrinh2\\controllers\\giaiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "giaiphuongtrinh2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "giaiphuongtrinh2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:58:16.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "giaiptController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "RelativeDocumentMoniker": "giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "RelativeToolTip": "giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:57:47.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
