@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\code2024\\ungdungvoinet\\bai1basic\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|solutionrelative:dichsangtiengviet\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|d:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|solutionrelative:dichsangtiengviet\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|d:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|solutionrelative:dichsangtiengviet\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|d:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F6983A-E419-41FC-AE2D-FE575A5DDD71}|dichsangtiengviet\\dichsangtiengviet.csproj|solutionrelative:dichsangtiengviet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\controllers\\giaiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A5C3B6-D648-40F0-B03F-8895B481F983}|giaiphuongtrinh2\\giaiphuongtrinh2.csproj|solutionrelative:giaiphuongtrinh2\\controllers\\giaiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +47,70 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Web.config",
+              "RelativeDocumentMoniker": "dichsangtiengviet\\Views\\Web.config",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Web.config",
+              "RelativeToolTip": "dichsangtiengviet\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-26T16:44:26.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dichsangtiengviet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dichsangtiengviet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:02:43.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "dichsangtiengviet\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "dichsangtiengviet\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T18:07:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "dichsangtiengviet\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\dichsangtiengviet\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "dichsangtiengviet\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T18:07:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "giaiptController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "RelativeDocumentMoniker": "giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\bai1basic\\giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "RelativeToolTip": "giaiphuongtrinh2\\Controllers\\giaiptController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:57:47.911Z"
             }
           ]
         }
