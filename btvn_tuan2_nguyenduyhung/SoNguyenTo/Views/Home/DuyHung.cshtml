@@ -1,0 +1,24 @@
+﻿@model SoNguyenTo.Models.SoNguyenToModel
+
+@{
+    ViewBag.Title = "Tính tổng các số nguyên tố";
+}
+
+<h2>Tính tổng các số nguyên tố</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label for="danhSachSo">Nhập các số (phân tách bằng dấu phẩy):</label>
+        <input type="text" id="danhSachSo" name="danhSachSo" value="@string.Join(",", Model.danhSachSo ?? new List<int>())" />
+    </div>
+
+    <div>
+        <input type="submit" value="Tính tổng" />
+    </div>
+}
+
+@if (Model.tongSoNguyenTo > 0)
+{
+    <h3>Tổng các số nguyên tố là: @Model.tongSoNguyenTo</h3>
+}

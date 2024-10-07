@@ -1,0 +1,74 @@
+﻿@model giaiptbac2.Models.giaipt
+
+@{
+    ViewBag.Title = "Giải Phương Trình - Nguyễn Duy Hùng";
+}
+
+@using (Html.BeginForm("DuyHung", "Home", FormMethod.Post))
+{
+    <style>
+        table {
+
+            border-collapse: collapse; 
+        }
+
+        td {
+            border: 3px double black; 
+            padding: 10px;
+            text-align: left;
+            font-size:20px;
+        }
+        td a{
+            text-decoration:none;
+            color:black;
+        }
+        .input{
+            width:300px;
+        }
+        .header{
+            background-color: lightgreen;
+        }
+        .kq{
+            color:red;
+        }
+        main{
+            display:flex;
+            justify-content:center;
+        }
+        button{
+            font-size:15px;
+            border-radius:6px;
+        }
+    </style>
+    <main>
+        <table>
+            <tr>
+                <td colspan="2" class="header"><h3>Giải phương trình bậc 2 online</h3></td>
+            </tr>
+            <tr>
+                <td><label>Hệ số a:</label></td>
+                <td class="input">@Html.TextBoxFor(m => m.A)</td>
+            </tr>
+            <tr>
+                <td><label>Hệ số b:</label></td>
+                <td>@Html.TextBoxFor(m => m.B)</td>
+            </tr>
+            <tr>
+                <td><label>Hệ số c:</label></td>
+                <td>@Html.TextBoxFor(m => m.C)</td>
+            </tr>
+            <tr>
+                <td><label>Kết Quả:</label></td>
+                <td class="kq">@ViewBag.s</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit">Giải Phương Trình</button>
+                    <button>@Html.ActionLink("Xóa Trắng", "Reset")</button>
+                    
+                </td>
+            </tr>
+        </table>
+    </main>
+}

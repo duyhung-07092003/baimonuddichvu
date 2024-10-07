@@ -1,0 +1,31 @@
+﻿@model ucln.Models.uocchunglonnhat
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("DuyHung", "Home", FormMethod.Post))
+{
+    <main>
+        <table>
+            <tr>
+                <td colspan="2">UOC CHUNG LON NHAT</td>
+            </tr>
+            <tr>
+                <td>Nhap vao so a: </td>
+                <td>@Html.TextBoxFor(m => m.A) </td>
+            </tr>
+            <tr>
+                <td>Nhap vao so b: </td>
+                <td>@Html.TextBoxFor(m => m.B) </td>
+            </tr>
+            <tr>
+                <td colspan="2"><button style="submit">Tinh</button></td>
+            </tr>
+            
+            <tr>
+                <td><label>Kết Quả:</label></td>
+                <td class="kq">@ViewBag.s</td>
+            </tr>
+        </table>
+    </main>
+}

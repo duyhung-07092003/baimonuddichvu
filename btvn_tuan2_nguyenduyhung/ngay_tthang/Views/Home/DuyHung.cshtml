@@ -1,0 +1,31 @@
+﻿@model ngay_tthang.Models.dmy
+
+@{
+    ViewBag.Title = "Số ngày trong tháng";
+}
+
+<h2>Nhập tháng và năm</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label for="Month">Tháng:</label>
+        @Html.TextBoxFor(m => m.Month)
+        @Html.ValidationMessageFor(m => m.Month)
+    </div>
+
+    <div>
+        <label for="Year">Năm:</label>
+        @Html.TextBoxFor(m => m.Year)
+        @Html.ValidationMessageFor(m => m.Year)
+    </div>
+
+    <div>
+        <input type="submit" value="Tính số ngày" />
+    </div>
+}
+
+@if (ViewBag.DaysInMonth != null)
+{
+    <h3>Số ngày trong tháng: @ViewBag.DaysInMonth</h3>
+}

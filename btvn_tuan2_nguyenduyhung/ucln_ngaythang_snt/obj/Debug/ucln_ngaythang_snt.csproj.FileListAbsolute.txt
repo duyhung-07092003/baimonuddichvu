@@ -1,0 +1,2 @@
+D:\code2024\ungdungvoinet\btvn_tuan2_nguyenduyhung\ucln_ngaythang_snt\obj\Debug\ucln_ngaythang_snt.csproj.AssemblyReference.cache
+D:\code2024\ungdungvoinet\btvn_tuan2_nguyenduyhung\ucln_ngaythang_snt\obj\Debug\ucln_ngaythang_snt.csproj.CoreCompileInputs.cache

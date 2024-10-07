@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h2>Calculator</h2>
+
+<form method="post" asp-action="CalculateUCLN">
+    <h3>Tính UCLN</h3>
+    <input type="number" name="a" placeholder="Nhập a" required>
+    <input type="number" name="b" placeholder="Nhập b" required>
+    <button type="submit">Tính UCLN</button>
+</form>
+<p>UCLN: @ViewBag.UCLNResult</p>
+
+<form method="post" asp-action="CalculateDays">
+    <h3>Số ngày trong tháng</h3>
+    <input type="number" name="thang" placeholder="Nhập tháng" required>
+    <input type="number" name="nam" placeholder="Nhập năm" required>
+    <button type="submit">Tính số ngày</button>
+</form>
+<p>Số ngày: @ViewBag.DaysResult</p>
+
+<form method="post" asp-action="CalculateSumPrimes">
+    <h3>Tính tổng số nguyên tố</h3>
+    <input type="text" name="arr" placeholder="Nhập mảng (vd: 1,2,3)" required>
+    <button type="submit">Tính tổng</button>
+</form>
+<p>Tổng số nguyên tố: @ViewBag.PrimesResult</p>
