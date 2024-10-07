@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\bai7_10_2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|solutionrelative:bai7_10_2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\bai7_10_2024\\models\\nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|solutionrelative:bai7_10_2024\\models\\nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|d:\\code2024\\ungdungvoinet\\bai7_10_2024\\bai7_10_2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99955EB3-A659-4350-8284-5B6C8E79CF07}|Bai7_10_2024\\Bai7_10_2024.csproj|solutionrelative:bai7_10_2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai7_10_2024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bai7_10_2024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:46:17.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bai7_10_2024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bai7_10_2024\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:44:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nv.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Models\\nv.cs",
+              "RelativeDocumentMoniker": "Bai7_10_2024\\Models\\nv.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\Bai7_10_2024\\Bai7_10_2024\\Models\\nv.cs",
+              "RelativeToolTip": "Bai7_10_2024\\Models\\nv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:42:51.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

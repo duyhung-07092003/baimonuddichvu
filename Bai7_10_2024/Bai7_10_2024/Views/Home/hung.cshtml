@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Bai7_10_2024.Models.NhanVien>
+
+@{
+    ViewBag.Title = "Danh Sách Nhân Viên";
+}
+
+<main>
+    <h2>Danh Sách Nhân Viên</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Mã Nhân Viên</th>
+                <th>Tên Nhân Viên</th>
+                <th>Địa chỉ</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var nhanVien in Model)
+            {
+                <tr>
+                    <td>@nhanVien.maNhanVien</td>
+                    <td>@nhanVien.tenNhanVien</td>
+                    <td>@nhanVien.diaChi</td>
+                    <td>@nhanVien.email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>

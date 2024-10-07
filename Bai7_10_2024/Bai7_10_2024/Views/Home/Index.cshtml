@@ -1,0 +1,56 @@
+﻿@model Bai7_10_2024.Models.NhanVien
+
+@{
+    ViewBag.Title = "Form Nhập Thông Tin Nhân Viên";
+}
+
+<main>
+    <h2>Nhập Thông Tin Nhân Viên</h2>
+
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        <label for="tenNhanVien">Tên nhân viên:</label>
+        @Html.TextBoxFor(model => model.tenNhanVien, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.tenNhanVien)
+        <br />
+
+        <label for="diaChi">Địa chỉ:</label>
+        @Html.TextAreaFor(model => model.diaChi, new { @class = "form-control", rows = 4 })
+        @Html.ValidationMessageFor(model => model.diaChi)
+        <br />
+
+        <label for="email">Email:</label>
+        @Html.TextBoxFor(model => model.email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.email)
+        <br />
+
+        <label for="gioiTinh">Giới Tính:</label><br />
+        @Html.RadioButtonFor(model => model.gioiTinh, "Nam")
+        @Html.RadioButtonFor(model => model.gioiTinh, "Nữ") 
+        <br />
+
+        <label for="maNhanVien">Chọn Mã Nhân Viên:</label>
+        @Html.DropDownListFor(model => model.maNhanVien, new SelectList(ViewBag.maNhanVienList, "Value", "Text"), "Chọn mã", new { @class = "form-control" })
+        <br />
+
+        <label for="queQuan">Quê quán:</label>
+        @Html.DropDownListFor(model => model.queQuan, new SelectList(ViewBag.queQuanList, "Value", "Text"), "Chọn quê quán", new { @class = "form-control" })
+        <br />
+
+        <label for="trangThaiHoatDong">Trạng thái:</label>
+        @Html.CheckBoxFor(model => model.trangThaiHoatDong)
+        <br />
+
+        <label for="sanPhamChon">Chọn Sản Phẩm:</label>
+        @Html.ListBoxFor(model => model.sanPhamChon, new MultiSelectList(ViewBag.sanPhamList, "Value", "Text"), new { @class = "form-control", size = 5 })
+        <br />
+
+        <label for="matKhau">Mật khẩu:</label>
+        @Html.PasswordFor(model => model.matKhau, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.matKhau)
+        <br />
+
+        <input type="submit" value="Lưu" class="btn btn-primary" />
+        }
+        </main>
