@@ -1,0 +1,27 @@
+﻿@model btvn_nguyenduyhung.Models.hethuc
+@{
+    ViewBag.Title = "Giải phương trình bậc 2";
+}
+<style>
+    .nhap {
+        width: 50px;
+        margin: 5px 0 5px 0;
+    }
+</style>
+<div align="center">
+    <h2>@ViewBag.Title</h2>
+    @{ Html.BeginForm("giaiptbac2", "Home", FormMethod.Post);}
+    @Html.TextBoxFor(m => m.a, new { @class = "nhap" })
+    <label>x<sup>2</sup> + </label>
+    @Html.TextBoxFor(m => m.b, new { @class = "nhap" })
+    <label>x + </label>
+    @Html.TextBoxFor(m => m.c, new { @class = "nhap" })
+    <label> = 0</label>
+    <br />
+    <input type="submit" value="Giải" />
+    <br />
+    <label>@Html.Raw(ViewBag.kq)</label>
+    @{ Html.EndForm();}
+
+</div>
+

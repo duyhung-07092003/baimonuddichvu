@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Nhập dữ liệu";
+}
+<style>
+    td {
+        padding: 5px 10px 5px 10px;
+    }
+
+    .tong tr th, td {
+        border: 1px solid black;
+    }
+
+    .nho table tr td {
+        border: none;
+    }
+</style>
+<h2>@ViewBag.Title</h2>
+
+<table class="tong">
+    <tr align="center">
+        <th>
+            Nhập số hoàn hảo
+        </th>
+        <th>
+            Nhập số chính phương
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <div class="nho">
+                @{Html.BeginForm("sohh", "Home", FormMethod.Get);}
+                <table>
+                    <tr>
+                        <td>Nhập n:</td>
+                        <td>@Html.TextBox("n", null, new { type = "number" })</td>
+                    </tr>
+                    <tr align="center">
+                        <td colspan="2">
+                            <input type="submit" value="Tìm số hoàn hảo có trong mảng" />
+                        </td>
+                    </tr>
+                </table>
+                @{ Html.EndForm();}
+            </div>
+        </td>
+        <td>
+            <div class="nho">
+                @{Html.BeginForm("socp", "Home", FormMethod.Get);}
+                <table>
+                    <tr>
+                        <td>Nhập n:</td>
+                        <td>@Html.TextBox("s", null, new { placeholder = "VD: 1,2,3,4,...." })</td>
+                    </tr>
+                    <tr align="center">
+                        <td colspan="2">
+                            <input type="submit" value="Tìm số chính phương có trong mảng" />
+                        </td>
+                    </tr>
+                </table>
+                @{ Html.EndForm();}
+            </div>
+        </td>
+    </tr>
+</table>
