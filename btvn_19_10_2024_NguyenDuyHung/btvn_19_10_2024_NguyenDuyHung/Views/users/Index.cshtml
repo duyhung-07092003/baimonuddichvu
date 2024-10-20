@@ -1,0 +1,33 @@
+﻿@model btvn_19_10_2024_NguyenDuyHung.Models.User
+
+@{
+    ViewBag.Title = "Đăng nhập";
+}
+
+<main>
+    <h2>Đăng nhập</h2>
+
+
+    <form action="/users/check" method="post">
+        <table>
+            <tr>
+                <td>Tên đăng nhập:</td>
+                <td>
+                    @Html.TextBoxFor(m => m.tk)
+                </td>
+            </tr>
+            <tr>
+                <td>Mật khẩu:</td>
+                <td>
+                    @Html.PasswordFor(m => m.mk)
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button type="submit">Đăng nhập</button> 
+                </td>
+            </tr>
+        </table>
+    </form>
+</main>
+

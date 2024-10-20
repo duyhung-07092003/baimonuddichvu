@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|d:\\code2024\\ungdungvoinet\\btvn_19_10_2024_nguyenduyhung\\btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_nguyenduyhung\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FE905-9689-446F-96AD-754C2F3B5CDD}|btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung.csproj|solutionrelative:btvn_19_10_2024_nguyenduyhung\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:05:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwJoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:14:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Models\\NhanVien.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:02:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:14:02.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Create.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Create.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:11:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Models\\User.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Models\\User.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Models\\User.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:53:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\users\\Index.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\users\\Index.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\users\\Index.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\users\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T03:03:25.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\usersController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\usersController.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\usersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:00:40.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Details.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Details.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:10:45.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Edit.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:11:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Delete.cshtml",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Views\\NhanVien\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:11:35.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:10:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\code2024\\ungdungvoinet\\btvn_19_10_2024_NguyenDuyHung\\btvn_19_10_2024_NguyenDuyHung\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "btvn_19_10_2024_NguyenDuyHung\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:04:10.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
