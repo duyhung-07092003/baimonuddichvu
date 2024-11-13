@@ -1,0 +1,32 @@
+﻿@model IEnumerable<WebApplication5.Models.GroupBookCategory>
+
+@{
+    ViewBag.Title = "GroupBookCategory";
+}
+
+<h2>GroupBookCategory</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        @Html.DisplayNameFor(model => model.Bookcount)
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bookcount)
+        </td>
+    </tr>
+}
+
+</table>
